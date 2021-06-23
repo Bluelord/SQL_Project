@@ -5,3 +5,5 @@
 This Repository has SQL Practice Projects.</br>
 
 1) Adventure Work
+2) COVID-19
+3) 
