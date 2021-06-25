@@ -25,3 +25,10 @@ Different Grouped tables build while quering in the VIEWS.
 - I'm using [Tablue Public](https://public.tableau.com/profile/nilesh.gupta1630#!/), I Don't have access to SQL through tablue,</br>
 thus by Exicuting & saving the result of Queries which are needed for Visulization.
 - Importing all the extracted files in tableau, Visulizing data and building the Dashboard.</br>
+- Two Dashboards are builds with various visualizations, the insights are as followed.
+	- Globally 2.173% of population died due to COVID-19, Europe has Maximum number of Death among other continents.</br>
+	- Dashboard shows Top 10 maximum number of cases in a county, with United States having maximum number of cases.</br>
+	- Displying Percentage of Population got infection with COVID, with top 10 Bar chart and Andorra at the top.</br>
+	- Country with highest death due to COVID is United States.</br>
+	- Vanuatu has the highest Death per Cases and Peru's Population got affect by it tge most.</br>
+	- Geographical Dispay of each stats gives insights for indivial countaries.</br>
