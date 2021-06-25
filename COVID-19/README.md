@@ -32,3 +32,10 @@ thus by Exicuting & saving the result of Queries which are needed for Visulizati
 	- Country with highest death due to COVID is United States.</br>
 	- Vanuatu has the highest Death per Cases and Peru's Population got affect by it tge most.</br>
 	- Geographical Dispay of each stats gives insights for indivial countaries.</br>
+
+
+### Dashboard showing Cases insights
+![](https://github.com/Bluelord/SQL_Project/blob/199993605e80bcb5a79e224997a054829b73c0df/COVID-19/DB1.JPG)
+
+### Dashboard showing Death insights
+![](https://github.com/Bluelord/SQL_Project/blob/199993605e80bcb5a79e224997a054829b73c0df/COVID-19/DB2.JPG)
