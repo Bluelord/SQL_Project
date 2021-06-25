@@ -63,17 +63,25 @@ The [Tableau File](https://github.com/Bluelord/SQL_Practice/blob/1408b6ea76ead4b
 
 ### Insights
 
-- Sales Overview Dashboard:
+- **Sales Overview Dashboard**:
     - Sales are linearly increasing in last 2 year, thus we can increase our Budget for next year.</br>
     - Shows Top 10 Sales by Customer & by Product. </br>
     - Monthly insight can be viewed by using the Month Filter.</br>
-- Customer Overview Dashboard:
+
+![](https://github.com/Bluelord/SQL_Project/blob/b892068afd8a65a270243fd7417275088c6a3b32/Adventure%20Project/DB1.JPG)
+
+- **Customer Overview Dashboard**:
     - Shows Detailed sales by Customer, it shows top 1000 Customer as top rated customer.</br>
     - The sales for the last 2 years has least Gender Inequality on product sales.</br>
     - The customer age between 40-50 has most of the contribution to the sales.</br>
     - Similarly customer who has Income of around $40,000 & $70,000 Spend more on our products.</br>
+
+![](https://github.com/Bluelord/SQL_Project/blob/b892068afd8a65a270243fd7417275088c6a3b32/Adventure%20Project/DB2.JPG)
+
 - Product Overview Dashboard:
     - Sales of Bikes are the Highest.</br>
     - It shows the Top 10 Sub Category product sales exluding the Bike Category.</br>
     - We also insight of product sales by its Size.</br>
-    - Shows the detailed sales number by Product Name & by Subcategory.
+    - Shows the detailed sales number by Product Name & by Subcategory.</br>
+
+![](https://github.com/Bluelord/SQL_Project/blob/b892068afd8a65a270243fd7417275088c6a3b32/Adventure%20Project/DB3.JPG)
